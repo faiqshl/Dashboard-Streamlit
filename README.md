@@ -11,7 +11,7 @@ The steps to create your virtual environment from this project is as follows:
    ```
 2. Move to directory Dicoding-Analysis-Bike-Sharing :
    ```
-   cd Dashboard-Streamlit :
+   cd Dashboard-Streamlit
    ```
 3. Install all the requirements inside "requirements.txt" :
    ```
